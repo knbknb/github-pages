@@ -1,8 +1,8 @@
 ---
-title: Welcome to my blog
+title: Tutorial
 ---
 
-# Github-Pages Tutorial
+# Github-Pages
 
 ## Background
 
